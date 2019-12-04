@@ -1,6 +1,13 @@
 body {
     font-family: "HelveticaNeue", "Arial", "sans-serif";
+    background-color: gainsboro;
 }
+    h1 {
+        font-size:30pt;
+    }
     h2 {
-        font-size:2em;
+        font-size:16pt;
+    }
+    h3 {
+        font-size:14pt;
     }
